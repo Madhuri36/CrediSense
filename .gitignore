@@ -1,0 +1,72 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# ================================
+# Jupyter Notebook
+# ================================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ================================
+# Data files (DO NOT push raw data)
+# ================================
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.zip
+
+# ================================
+# Model files
+# ================================
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# ================================
+# Logs & outputs
+# ================================
+logs/
+*.log
+outputs/
+results/
+predictions/
+
+# ================================
+# Streamlit
+# ================================
+.streamlit/secrets.toml
+
+# ================================
+# OS / Editor junk
+# ================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ================================
+# Experiment tracking
+# ================================
+mlruns/
+wandb/
+
+# ================================
+# Cache
+# ================================
+.cache/
