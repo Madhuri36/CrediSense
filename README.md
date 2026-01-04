@@ -1,6 +1,6 @@
 # CrediSense- A Credit Risk Prediction Application using Machine Learning
 CrediSense is an intelligent credit risk prediction system that leverages machine learning algorithms to assess the creditworthiness of loan applicants. Built with Streamlit, the application provides an intuitive interface for financial institutions to make data-driven lending decisions while minimizing default risks. <br>
-<a href="https://credisense.streamlit.app">Live Demo Link</a>
+🔗 **Live Demo:** https://credisense.streamlit.app
 
 ## Key Features
 
